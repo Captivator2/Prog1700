@@ -1,0 +1,3 @@
+1. The if in the ATM program was a little bit hard beacuse i had to check multiple things at the same time, like the PIN and the options.
+No i ran the code first so i dont think it helped me
+I learned how to use and and or in conditions and how if statements can make the program do more complex tasks like giving disconts or checking the weather.

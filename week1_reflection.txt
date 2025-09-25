@@ -1,0 +1,5 @@
+Setting up my tools was both easy and challenging in different ways. 
+Creating a GitHub account and making a repository was straightforward, but learning the Git commands to clone, add, commit, and push took a little practice.
+ I realized that paying attention to the exact commands and file locations is very important. 
+ Writing pseudocode and flowcharts helped me think through the steps of a program before actually coding it. 
+One new thing I learned today was how to use diagrams.net to create flowcharts, which will be useful for planning programs in the future.
