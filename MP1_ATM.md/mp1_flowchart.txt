@@ -1,0 +1,22 @@
+Start
+  |
+Input balance
+  |
+Input withdrawal
+  |
+Is input numeric? ---- No ---> "Error: Invalid input" ---> End
+  |
+  Yes
+  |
+Is withdrawal <= 0 ? ---- Yes ---> "Error: Invalid withdrawal" ---> End
+  |
+  No
+  |
+Is withdrawal > balance ? ---- Yes ---> "Error: Insufficient funds" ---> End
+  |
+  No
+  |
+new_balance = balance - withdrawal
+Print new balance
+  |
+End

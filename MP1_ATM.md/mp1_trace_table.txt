@@ -1,0 +1,7 @@
+| Test # | Balance | Withdrawal | Notes/Condition checked                 | Output                      |
+|--------|---------|------------|-----------------------------------------|-----------------------------|
+| 1      | 500.00  | 200.00     | numeric, >0, <= balance                 | New balance: 300.00         |
+| 2      | 500.00  | 500.00     | numeric, >0, withdrawal == balance      | New balance: 0.00           |
+| 3      | 500.00  | 600.00     | numeric, >0, withdrawal > balance       | Error: Insufficient funds   |
+| 4      | 500.00  | -50.00     | numeric, withdrawal <= 0                | Error: Invalid withdrawal   |
+| 5      | 500.00  | abc        | non-numeric withdrawal input            | Error: Invalid input        |

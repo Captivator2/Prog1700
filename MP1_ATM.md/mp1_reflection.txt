@@ -1,0 +1,16 @@
+
+1. What was the most challenging part of planning or coding?
+The hardest part was figuring out the order of the questions the program ask itself.
+ I had to make sure the program looked at invalid withdrawals first, then checked if the amount was bigger than the balance.
+ It took a little thinking, but it got easier once I went step by step.
+
+2. How did the trace table help identify errors before coding?
+The trace table helped a lot because I could test different situations on paper before running the program.
+It showed me clearly what the program should do when the withdrawal was negative, zero, bigger than the balance, or exactly equal to the balance.
+This made it easier to see if I missed any cases.
+It also saved me time because I didn’t have to run the code over and over again just to test every possibility.
+
+3. How would you explain your solution to a friend new to programming?
+I would say the program just looks at the numbers step by step. First it asks for the balance and the withdrawal amount. 
+Then it sees if the withdrawal is invalid or bigger than the balance, and shows an error if it is.
+If everything is okay, it subtracts the withdrawal from the balance and shows the new amount.
