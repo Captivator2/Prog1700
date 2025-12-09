@@ -1,0 +1,5 @@
+Grades Summary
+-----------------
+Average Grade: 82.125
+Highest Grade: 95.0 (Mia)
+Lowest Grade: 67.0 (Ethan)
