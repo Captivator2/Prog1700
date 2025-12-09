@@ -1,0 +1,3 @@
+Apples,3.50
+Bananas,2.75
+Bread,2.99
